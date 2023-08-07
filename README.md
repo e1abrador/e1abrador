@@ -23,18 +23,3 @@ Here on my GitHub, you'll find a collection of my projects, tools, and resources
   <a href="https://www.credential.net/0658f9a6-bf56-41fd-8db9-65a7a01a0a73#gs.vt0hrb" target="_blank"><img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=53851445" class="cert" alt='CRTO' width="100px"></a>
   <a href="https://www.credential.net/ebdd3c7c-e238-4307-ae64-d41e0d3f53ea#gs.vt0idg" target="_blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/71460022" class="cert" alt='CRTO' width="120px"></a>
 </p>
-
-
----
-
-<div align="center">
-  <p>
-    <a href="https://github.com/e1abrador">
-      <img align="left" height="215em" alt="postmodern's github stats" src="https://github-readme-stats.vercel.app/api?username=e1abrador&theme=chartreuse-dark&show_icons=true" />
-      <img align="right" height="215em" alt="postmodern's top-languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e1abrador&theme=chartreuse-dark" />
-    </a>
-  </p>
-</div>
-
----
-
