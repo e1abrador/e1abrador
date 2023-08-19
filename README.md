@@ -23,3 +23,7 @@ Here on my GitHub, you'll find a collection of my projects, tools, and resources
   <a href="https://www.credential.net/0658f9a6-bf56-41fd-8db9-65a7a01a0a73#gs.vt0hrb" target="_blank"><img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=53851445" class="cert" alt='CRTO' width="100px"></a>
   <a href="https://www.credential.net/ebdd3c7c-e238-4307-ae64-d41e0d3f53ea#gs.vt0idg" target="_blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/71460022" class="cert" alt='CRTO' width="120px"></a>
 </p>
+
+## 📈 My Github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=e1abrador&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="e1abrador" />
