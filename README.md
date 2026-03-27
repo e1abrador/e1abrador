@@ -30,4 +30,4 @@ Here on my GitHub, you'll find a collection of my projects, tools, and resources
 - [XSS Through DNS Records](https://blog.deephacking.tech/en/posts/xss-through-dns-records/)
 - [Unicode Characters in Burp Suite](https://blog.deephacking.tech/en/posts/unicode-characters-in-burp-suite/)
 - [Rogue AP using hostapd-wpe - Attacks on WPA Enterprise Networks](https://blog.deephacking.tech/en/posts/rogue-ap-using-hostapd-wpa-enterprise/)
-- [Encode IP](https://github.com/e1abrador/Burp-Encode-IP): Burp Suite extension to encode an IP address focused to bypass application IP / domain blacklist.
+- [Encode IP](https://github.com/PortSwigger/encode-ip): Burp Suite extension to encode an IP address focused to bypass application IP / domain blacklist.
