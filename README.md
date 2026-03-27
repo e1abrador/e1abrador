@@ -24,6 +24,10 @@ Here on my GitHub, you'll find a collection of my projects, tools, and resources
   <a href="https://www.credential.net/ebdd3c7c-e238-4307-ae64-d41e0d3f53ea#gs.vt0idg" target="_blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/71460022" class="cert" alt='CRTO' width="120px"></a>
 </p>
 
-## Author of:
+## Public Research:
 
 - [ImagePanick](https://github.com/e1abrador/ImagePanick/): SVG-to-RCE exploit chaining ImageMagick weak default policies with Ghostscript SAFER bypass vulnerabilities.
+- [XSS Through DNS Records](https://blog.deephacking.tech/en/posts/xss-through-dns-records/)
+- [Unicode Characters in Burp Suite](https://blog.deephacking.tech/en/posts/unicode-characters-in-burp-suite/)
+- [Rogue AP using hostapd-wpe - Attacks on WPA Enterprise Networks](https://blog.deephacking.tech/en/posts/rogue-ap-using-hostapd-wpa-enterprise/)
+- [Encode IP](https://github.com/e1abrador/Burp-Encode-IP): Burp Suite extension to encode an IP address focused to bypass application IP / domain blacklist.
