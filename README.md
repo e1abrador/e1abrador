@@ -26,6 +26,7 @@ Here on my GitHub, you'll find a collection of my projects, tools, and resources
 
 ## Public Research:
 
+- [New crazy payloads in the URL Validation Bypass Cheat Sheet](https://portswigger.net/research/new-crazy-payloads-in-the-url-validation-bypass-cheat-sheet)
 - [ImagePanick](https://github.com/e1abrador/ImagePanick/): SVG-to-RCE exploit chaining ImageMagick weak default policies with Ghostscript SAFER bypass vulnerabilities.
 - [ImageMagick Heap Buffer Overflow Read](https://github.com/ImageMagick/ImageMagick/security/advisories/GHSA-8vfj-q2cp-5m5j)
 - [XSS Through DNS Records](https://blog.deephacking.tech/en/posts/xss-through-dns-records/)
